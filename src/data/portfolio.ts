@@ -258,7 +258,7 @@ export const projects: Project[] = [
     title: "Image Stitching Algorithm",
     shortDescription:
       "MATLAB algorithm for creating seamless panoramic images from multiple photos.",
-    fullDescription: `Contributed to developing an image stitching algorithm in MATLAB that creates
+    fullDescription: `Contributed to developing an efficient image stitching algorithm in MATLAB that creates
     seamless panoramic images from multiple photographs. The project involved implementing advanced
     data processing and computational methods for feature detection, image alignment, and blending
     to produce high-quality panoramic outputs.`,
